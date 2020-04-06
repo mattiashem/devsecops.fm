@@ -400,7 +400,6 @@ section
 	-o-transform: translateY(-50%);
 	transform: translateY(-50%);
 	left: 33px;
-	height: 51px;
 	z-index: 1;
 }
 .logo a
@@ -684,7 +683,7 @@ section
 
 .home
 {
-	height: 346px;
+	height: 400px;
 }
 .home_container
 {
