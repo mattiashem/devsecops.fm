@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Deploy page to bucket"
-gsutil cp -r * gs://devsecops-fm
+gsutil -m cp -r * gs://devsecops-fm
